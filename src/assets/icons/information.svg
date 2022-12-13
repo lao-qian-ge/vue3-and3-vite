@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="52px" height="52px" viewBox="0 0 52 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>人效报表</title>
+    <defs>
+        <linearGradient x1="49.868%" y1="2.976%" x2="49.868%" y2="101.08%" id="linearGradient-1">
+            <stop stop-color="#777777" stop-opacity="0.3" offset="0%"></stop>
+            <stop stop-color="#A2A6AB" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="深蓝色页面" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="连山个人版-个人版购买-月卡未悬浮状态" transform="translate(-876.000000, -668.000000)" fill-rule="nonzero">
+            <g id="人效报表" transform="translate(876.000000, 668.000000)">
+                <circle id="椭圆形备份-2" fill="url(#linearGradient-1)" opacity="0.4" cx="26" cy="26" r="26"></circle>
+                <g id="阿里云-全球云计算服务及云解决方案提供商" transform="translate(8.000000, 11.000000)">
+                    <g id="编组" transform="translate(0.106093, 0.000000)" fill="#444444">
+                        <path d="M24.8919161,27.2044734 L33.7143588,27.2044734 L33.7143588,0 L24.8919161,0 L24.8919161,27.2044734 Z M31.6821751,25.1517537 L26.9323127,25.1517537 L26.9323127,2.06918642 L31.6821751,2.06918642 L31.6821751,25.1517537 Z" id="形状"></path>
+                        <path d="M12.4460143,27.2043597 L21.2765574,27.2043597 L21.2765574,3.40455085 L12.4460143,3.40455085 L12.4460143,27.2043597 Z M19.2362733,25.1516401 L14.4864109,25.1516401 L14.4864109,5.45724779 L19.2362733,5.45724779 L19.2362733,25.1516401 Z" id="形状"></path>
+                        <path d="M0,27.2044734 L8.83053186,27.2044734 L8.83053186,6.83406891 L0,6.83406891 L0,27.2044734 Z M6.79020276,25.1517537 L2.04032911,25.1517537 L2.04032911,8.88676585 L6.79020276,8.88676585 L6.79020276,25.1517537 Z" id="形状"></path>
+                        <polygon id="路径" points="33.8367646 30.716473 12.3399218 30.716473 12.3399218 33 33.8367646 33"></polygon>
+                    </g>
+                    <polygon id="路径" fill="#3056D3" points="10.0384003 30.716473 0 30.716473 0 33 10.0384003 33"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

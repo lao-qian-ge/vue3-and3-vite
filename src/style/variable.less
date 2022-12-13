@@ -1,0 +1,151 @@
+// // 常用属性变量
+// @not-allow: not-allowed;
+// @pointer: pointer;
+
+// // -------- Colors -----------
+// @info-color: #2c71f4;
+// @text-color: #444444;
+// @explain-text-color: #9fa9ba;
+// @text-hover-color: #3773da;
+// @error-info-color: #de350b;
+// @warning-info-color: #ff991f;
+// @success-info-color: #00875a;
+// @disable-bg: #f7f8fa;
+// @base-line-color: #ebedf0;
+// @white: #ffffff;
+// @black: #000000;
+// @select-item-hover-bg: #edf4ff;
+// @calendar-picker-icon-color: #b1bac8;
+// @disable-checked-color: #8590b3;
+// @disable-base-color: rgba(68, 68, 68, 0.4);
+// @disable-dark-color: #666;
+
+// // font
+// @font-size-h1: 34px;
+// @font-size-h2: 26px;
+// @font-size-h3: 22px;
+// @font-size-import: 16px;
+// @font-size-text: @font-size-import - 2px;
+// @font-size-tip: @font-size-import - 4px;
+// @font-size-cell: @font-size-import - 4px;
+
+// // shadow
+// @shadow-color-1: rgba(28, 41, 90, 0.04);
+// @shadow-color-2: rgba(28, 41, 90, 0.1);
+// @shadow-color-3: rgba(10, 42, 97, 0.2);
+// @box-shadow-sm: 0px 0px 4px 0px rgba(200, 201, 204, 0.2);
+// @box-shadow-md: 0px 2px 8px 0px @shadow-color-2;
+// @box-shadow-lg: 0px 2px 24px 0px @shadow-color-2;
+// @box-shadow-mr: 0px 12px 24px 0px @shadow-color-1;
+// @box-shadow-border: 0px 2px 4px 0px rgba(51, 70, 129, 0.1),
+// 	inset 0px -1px 0px 0px @border-primary-color;
+// @shadow-message-color: rgba(200, 201, 204, 0.5);
+// @shadow-message: 0px 2px 24px 0px @shadow-message-color;
+// @shadow-default: 0px 0px 4px 0px @shadow-color-3;
+// @shadow-data-picker: 0px 0px 4px 0px @shadow-color-3;
+// @shadow-calendar-picker: 0px 0px 4px 0px @shadow-color-3;
+// @shadow-calendar-picker: 0px 0px 4px 0px @shadow-color-3;
+// @dropdown-shadow: 0px 12px 24px 0px @shadow-color-2;
+
+// // Border color (eg: 按钮使用边角-1，提示框用边角-2)
+// @border-radius-1: 2px;
+// @border-radius-2: 4px;
+// @border-primary-color: #e8ecef;
+// @border-base-color: #dddde5;
+// @border-width-base: 1px;
+// @border-style-base: solid;
+// @border-base: @border-width-base @border-style-base @border-base-color;
+// @border-primary: @border-width-base @border-style-base @border-primary-color;
+// @base-line: @border-width-base @border-style-base @base-line-color;
+
+// // Grid system
+// @grid-columns: 24;
+// @grid-gutter-width: 8px;
+// @margin-base-width: 8px;
+// @padding-lg-width: 24px; // containers
+// @padding-md-width: 16px; // small containers and buttons
+// @padding-sm-width: 12px; // Form controls and items
+// @padding-base-width: 8px; // small items
+// @padding-base-cell-width: 6px; // table cell items
+
+// //Layout
+// @layout-body-bg: #f5f7f9;
+
+// // Menu
+// @menu-item-hover-bg: #f5f6f8;
+
+// // Button
+// @button-color-plain-opacity: 0.1;
+// @button-danger-color: @error-info-color;
+// @button-success-color: @success-info-color;
+// @button-tip-color: @warning-info-color;
+// @btn-default-shadow: none;
+
+// // Avatar
+// @avatar-user-bg: @info-color;
+// @avatar-user-color: @white;
+
+// // Transfer
+// @transfert-btn-border: #ebedf0;
+// @transfert-btn-bg: @disable-bg;
+// @transfer-header-height-default: 32px;
+
+// // Tree
+// //@tree-directory-selected-color: #fff;
+// //@tree-directory-selected-bg: @primary-color;
+// //@tree-node-hover-bg: @item-hover-bg;
+// //@tree-select-node-selected-bg: @disable-bg;
+
+// // Radio
+// @radio-btn-disable-check: #9da9bb;
+// @radio-btn-bg: @border-primary-color;
+
+// // checkout
+// @checkout-border-color: @border-base-color;
+// @checkout-disable-color: @disable-base-color;
+// @checkout-disable-checked-color: rgba(44, 113, 244, 0.4);
+
+// // Input
+// @input-default-bg: #fffefe;
+// @input-search-icon: @explain-text-color;
+// @input-search-icon-hover: #9da9bb;
+
+// // Select
+// @select-indeterminate-height: 2px;
+// @select-indeterminate-border: #1767d7;
+// @select-text-color: #9da9bb;
+// @select-disabled-bg: #f2f3f5;
+// @select-default-border-color: @border-base-color;
+// @select-dropdown-item-selected-bg: @disable-bg;
+
+// //Dropdown
+// @dropdown-edge-child-vertical-padding: 4px;
+
+// // Message
+// @message-toast-content-padding: 14px 24px;
+
+// // DatePicker
+// @date-picker-default-border-color: @border-base-color;
+// @date-picker-not-text-color: #9da9bb;
+// @date-picker-header-color: @text-color;
+// @date-picker-color-secondary: #9da9bb;
+// // @range-picker-input-disabled : #EBEDF0;
+// @range-picker-input-disabled: @disable-bg;
+// @week-tr-hover-bg: #edf4ff;
+
+// // Table
+// @table-header-bg: #f2f6fa;
+// @table-header-color: @text-color;
+// @table-selected-row-bg: @disable-bg;
+// @table-border-radius-base: @border-radius-2;
+
+// // Breadcrumb
+// @breadcrumb-base-color: #8590b3;
+// @breadcrumb-link-color: #8590b3;
+// @breadcrumb-link-color-hover: @info-color;
+
+// // Card
+// @card-radius: @border-radius-2;
+
+// // Collapse
+// @collapse-header-bg: @disable-bg;

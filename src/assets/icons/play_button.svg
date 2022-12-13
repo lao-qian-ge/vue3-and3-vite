@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="29px" height="30px" viewBox="0 0 29 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>播放</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="跨账户页面" transform="translate(-185.000000, -904.000000)">
+            <g id="编组-26" transform="translate(96.000000, 855.000000)">
+                <g id="Play-Button" transform="translate(89.032891, 49.286232)">
+                    <ellipse id="Oval" fill="#171717" opacity="0.800000012" cx="14.4123625" cy="14.3870968" rx="14.4123625" ry="14.3870968"></ellipse>
+                    <g id="Icon" transform="translate(13.138727, 11.499252)" fill="#FFFFFF">
+                        <polygon id="play-button" points="4.85633954 3.4985953 0 6.99727141 0 0"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>导出</title>
+    <g id="成分分析" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="数据/视频分析/成分分析/折线图" transform="translate(-1323.000000, -875.000000)" fill="#334681" fill-rule="nonzero">
+            <g id="编组-29备份" transform="translate(1314.000000, 868.000000)">
+                <g id="导出" transform="translate(9.000000, 7.000000)">
+                    <rect id="矩形" opacity="0" x="0" y="0" width="18" height="18"></rect>
+                    <path d="M12.15,6.15000001 L9.9,8.40000001 L8.85000001,7.35000001 L11.1,5.10000001 L10.125,4.12500001 L9.37500001,3.375 L13.875,3.375 L13.875,7.875 L13.125,7.12500001 L12.15,6.15000001 L12.15,6.15000001 Z M11.175,4.12500001 L13.125,4.12500001 L13.125,6.075 L13.125,4.12500001 L11.175,4.12500001 Z M4.875,4.875 L4.875,12.375 L12.375,12.375 L12.375,7.875 L13.875,9.375 L13.875,13.875 L3.375,13.875 L3.375,3.375 L7.875,3.375 L9.375,4.875 L4.875,4.875 Z" id="形状"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

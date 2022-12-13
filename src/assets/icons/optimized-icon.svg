@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="0421首页" transform="translate(-312.000000, -695.000000)">
+            <g id="编组-16" transform="translate(313.000000, 696.000000)">
+                <g id="编组" transform="translate(0.000000, 0.000000)">
+                    <polygon id="Stroke-1" stroke="#333333" stroke-width="0.81" points="7.70000167 11.9000009 11.900001 11.9000009 11.900001 19.6 7.70000167 19.6"></polygon>
+                    <polygon id="Stroke-3" stroke="#333333" stroke-width="0.81" points="0 14.6999994 4.19999937 14.6999994 4.19999937 19.5999988 0 19.5999988"></polygon>
+                    <polygon id="Stroke-5" stroke="#333333" stroke-width="0.81" points="15.4000006 7.69999917 19.6 7.69999917 19.6 19.5999977 15.4000006 19.5999977"></polygon>
+                    <polyline id="Stroke-7" stroke="#3056D3" stroke-width="0.648" points="15.4000006 0 19.6 0 19.6 4.19999949"></polyline>
+                    <path d="M19.5999971,0 C19.5999971,0 12.1848982,10.1121988 0,10.4887987" id="Stroke-9" stroke="#3056D3" stroke-width="0.648"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
